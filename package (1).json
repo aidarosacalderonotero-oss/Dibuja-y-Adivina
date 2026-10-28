@@ -1,0 +1,12 @@
+{
+  "name": "dibuja-y-adivina",
+  "version": "1.0.0",
+  "description": "Juego multijugador de dibujar y adivinar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
